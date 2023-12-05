@@ -18,8 +18,8 @@ For a November hackathon, my friends and I tackled the challenge of integrating 
 
 
 ## Contributors
-- **Max Benschop
-- **Jeffrey van Oord van der Vlies
-- **Luuk Vink
-- **Wesley Weeningen
-- **Sem
+- **Max Benschop**
+- **Jeffrey van Oord van der Vlies**
+- **Luuk Vink**
+- **Wesley Weeningen**
+- **Sem**
