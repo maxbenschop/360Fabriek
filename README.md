@@ -13,8 +13,8 @@ For a November hackathon, my friends and I tackled the challenge of integrating 
 - **Interactive Comments:** Users can share their thoughts and opinions on each monument.
   
 ## Technologies Used
-- **React Native
-- **FireBase
+- **React Native**
+- **SupaBase**
 
 
 ## Contributors
